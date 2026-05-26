@@ -45,8 +45,6 @@
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=flat-badge&logo=docker&logoColor=white)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=flat-badge&logo=ubuntu&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=flat-badge&logo=windows&logoColor=white)
-![NGINEX](https://img.shields.io/badge/Nginx-2CA8E1?style=for-the-badge&logo=nginx&logoColor=white)
-
 
 
 
@@ -57,6 +55,10 @@
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-badge&logo=visual%20studio%20code&logoColor=white)
 ![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
+####  COnfiguration Server
+
+![XAMMP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+![NGINEX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 #### 🎨 Design Tools:
 
