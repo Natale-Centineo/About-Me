@@ -46,7 +46,7 @@
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=flat-badge&logo=ubuntu&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=flat-badge&logo=windows&logoColor=white)
 ![NGINEX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
 
 
 
@@ -55,6 +55,7 @@
 ![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=flat-badge&logo=phpstorm&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-badge&logo=WebStorm&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-badge&logo=visual%20studio%20code&logoColor=white)
+![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 
 #### 🎨 Design Tools:
