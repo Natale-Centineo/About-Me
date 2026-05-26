@@ -55,7 +55,8 @@
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-badge&logo=visual%20studio%20code&logoColor=white)
 ![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
-####  COnfiguration Server
+#### <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/99e3e7b4-e2ff-4b4e-a424-59c03a974b05" />
+ Configuration Server
 
 ![XAMMP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![NGINEX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
